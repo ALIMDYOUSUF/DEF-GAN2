@@ -1,4 +1,4 @@
-CRNN-GANs: Continuous Recurrent Neural Network-Generative Adversarial Networks
+DcCRNN-GANs: Deep Conditional Continuous Recurrent Neural Network-Generative Adversarial Networks
 ======================================
 
 This software implements the Continuous Recurrent Neural Network (CRNN) in pytorch.
